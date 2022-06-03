@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    background-color: aqua;
+}
+main{
+    height:60vh;
+    background: url(https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+main p{
+
+    color: white;
+
+}
+
+#texto{
+    display: flex;
+}
+
+h4{
+    color: gold;
+}
+
+footer p{
+    color:darkgray;
+}
